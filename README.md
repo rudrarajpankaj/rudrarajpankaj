@@ -1,24 +1,19 @@
-👋 Hello, I'm Pankaj Kumar Singh!
+👋 Hello, I'm Pankaj !
 
 I'm a Java Full Stack Developer, Android App Developer, and React Enthusiast currently in my final year of Master of Computer Applications (MCA). I have a passion for transforming ideas into innovative solutions through technology, focusing on creating scalable and user-friendly applications.
 
 🚀 Technologies & Skills
 
-
 -------Languages-------
-
 Java | Kotlin | JavaScript (ES6+) | HTML5 | CSS3
 
 -------Frameworks & Libraries-------
-
 Spring Boot | React.js | Bootstrap
 
 -------Mobile Development-------
-
 Android SDK | Android Studio
 
 ------- Databases -------
-
 MySQL | MongoDB
 
 ------- Tools & Platforms -------

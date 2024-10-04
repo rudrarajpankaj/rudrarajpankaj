@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hello, I'm Pankaj Kumar Singh!
 
-<!--
-**rudrarajpankaj/rudrarajpankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java Full Stack Developer, Android App Developer, and React Enthusiast currently in my final year of Master of Computer Applications (MCA). I have a passion for transforming ideas into innovative solutions through technology, focusing on creating scalable and user-friendly applications.
 
-Here are some ideas to get you started:
+🚀 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-------Languages-------
+
+Java | Kotlin | JavaScript (ES6+) | HTML5 | CSS3
+
+-------Frameworks & Libraries-------
+
+Spring Boot | React.js | Bootstrap
+
+-------Mobile Development-------
+
+Android SDK | Android Studio
+
+------- Databases -------
+
+MySQL | MongoDB
+
+------- Tools & Platforms -------
+Git | GitHub | Postman | Visual Studio Code | IntelliJ IDEA
+
+
+ 📚 Current Learning
+ MongoDB | Tailwaind CSS
+
+---
+
+ 🤝 Connect with Me
+- LinkedIn : https://www.linkedin.com/in/rudrarajpankaj/
+- Portfolio :
+
+ 📄 Resume
+You can view or download my resume [here](link-to-resume).
+
+Thank you for visiting my GitHub! I'm always open to collaboration and discussions, so feel free to reach out!

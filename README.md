@@ -5,15 +5,19 @@ I'm a Java Full Stack Developer, Android App Developer, and React Enthusiast cur
 🚀 Technologies & Skills
 
 -------Languages-------
+
 Java | Kotlin | JavaScript (ES6+) | HTML5 | CSS3
 
 -------Frameworks & Libraries-------
+
 Spring Boot | React.js | Bootstrap
 
 -------Mobile Development-------
+
 Android SDK | Android Studio
 
 ------- Databases -------
+
 MySQL | MongoDB
 
 ------- Tools & Platforms -------

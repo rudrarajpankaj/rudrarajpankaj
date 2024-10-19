@@ -6,7 +6,7 @@ I'm a Java Full Stack Developer, Android App Developer, and React Enthusiast cur
 
 -------Languages-------
 
-Java | Kotlin | JavaScript (ES6+) | HTML5 | CSS3
+Java | Python | JavaScript (ES6+) | HTML5 | CSS3
 
 -------Frameworks & Libraries-------
 
@@ -21,7 +21,7 @@ Android SDK | Android Studio
 MySQL | MongoDB
 
 ------- Tools & Platforms -------
-Git | GitHub | Postman | Visual Studio Code | IntelliJ IDEA
+Git | GitHub | Visual Studio Code | IntelliJ IDEA
 
 
  📚 Current Learning
@@ -31,7 +31,7 @@ Git | GitHub | Postman | Visual Studio Code | IntelliJ IDEA
 
  🤝 Connect with Me
 - LinkedIn : https://www.linkedin.com/in/rudrarajpankaj/
-- Portfolio :
+- Portfolio : 
 
  📄 Resume
 You can view or download my resume [here](link-to-resume).
